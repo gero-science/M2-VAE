@@ -1,0 +1,9 @@
+latent_dim: 8
+
+encoder_layers:
+  - 64
+  - 64
+
+decoder_layers:
+  - 64
+  - 64

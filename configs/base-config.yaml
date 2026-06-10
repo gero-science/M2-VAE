@@ -1,0 +1,9 @@
+defaults:
+  - data: ukb_bmi
+  - model: default
+  - training: default
+  - _self_
+
+seed: 42
+
+output_dir: outputs

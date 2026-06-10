@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data (local)
+data/
+inputs/
+outputs/
+*.parquet
+*.csv
+*.tsv
+
+# numpy datasets (local)
+*.npy
+*.npz

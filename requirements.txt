@@ -1,10 +1,7 @@
 torch
 numpy
-pandas
-matplotlib
-optuna
+scikit-learn
 hydra-core
 omegaconf
-scikit-learn
-pyarrow
-joblib
+optuna
+tqdm
